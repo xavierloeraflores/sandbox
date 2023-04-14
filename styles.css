@@ -1,0 +1,40 @@
+span{
+    color:blue
+}
+* {
+    background-color: blue;
+}
+p {
+    font-size:50px;
+}
+
+@media screen and  ( min-width:500px) {
+    *{
+
+        background-color: green;
+    }
+    p {
+        font-size:80px;
+    }
+}
+
+@media screen and  ( max-width:200px) {
+    *{
+
+        background-color: pink;
+    }
+    p {
+        font-size:5px;
+    }
+}
+
+@media screen and  ( max-height:500px) and (min-width:300px) {
+    *{
+
+        background-color: red;
+    }
+    p {
+        font-size:5px;
+    }
+}
+
