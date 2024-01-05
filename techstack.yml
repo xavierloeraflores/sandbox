@@ -1,7 +1,8 @@
 repo_name: xavierloeraflores/sandbox
 report_id: aea73c16bc13792847b4267e0addd988
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T13:04:04+00:00'
+timestamp: '2024-01-05T08:38:41+00:00'
 requested_by: xavierloeraflores
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/xavierloeraflores/sandbox
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/xavierloeraflores/sandbox
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/xavierloeraflores/sandbox
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -41,6 +45,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/xavierloeraflores/sandbox/blob/main/contact.html
   detection_source: contact.html
   last_updated_by: xavierloeraflores
   last_updated_on: 2023-04-14 01:52:24.000000000 Z
